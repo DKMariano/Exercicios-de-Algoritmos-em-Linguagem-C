@@ -60,3 +60,4 @@ Até a presente data (25/06/2024), o repositório contém as seguintes pastas:
 ### Contribuições
 
 Sinta-se à vontade para contribuir com este repositório, seja corrigindo erros, sugerindo melhorias ou compartilhando suas próprias soluções para os exercícios.
+
