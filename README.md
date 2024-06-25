@@ -6,7 +6,7 @@ Este repositório armazena os exercícios que pratiquei durante o curso de Algor
 
 ### Objetivo
 
-Os exercícios e algoritmos foram originalmente elaborados para serem respondidos em Portugol. No entanto, como já possuo conhecimento no assunto, optei por respondê-los em Linguagem C a fim de aperfeiçoar meus conhecimentos nesta linguagem. Este repositório serve como um portfólio dos meus conhecimentos básicos em C, demonstrando a aplicação prática dos conceitos aprendidos durante o curso.
+Os exercícios de algoritmos foram originalmente elaborados para serem respondidos em Portugol. No entanto, como já possuo conhecimento em Lógica de Programação, optei por respondê-los em Linguagem C a fim de aperfeiçoar meus conhecimentos nesta linguagem. 
 
 ### Conteúdo
 
