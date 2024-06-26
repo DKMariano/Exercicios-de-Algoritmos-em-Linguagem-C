@@ -16,5 +16,7 @@ int main (){
 
     setlocale(LC_ALL, "Portuguese"); //Esta linha define a locale para português
 
-    printf("Olá, mundo!\n"); // Exibição da mensagem "Olá, mundo!".
+    printf("Olá, mundo!\n");
+
+    return 0;
 }
