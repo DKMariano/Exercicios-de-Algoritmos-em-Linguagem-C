@@ -1,7 +1,7 @@
 /**************************************************************************************
-* Data atual: 25/06/2024                                                              *
+* Data: 25/06/2024                                                                    *
 * Exercício: 002 - Exercícios de Algoritmos (em C)                                    *                                                                                                        *
-* Instituição de Ensino: Curso em Vídeo                                               *
+* Instituição de Ensino: Estudonauta                                                  *
 * Disciplina: Linguagem C                                                             *
 * Professor: Gustavo Guanabara                                                        *
 * Aluno: D. K. Mariano                                                                *

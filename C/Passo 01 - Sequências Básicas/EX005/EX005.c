@@ -1,5 +1,5 @@
 /**********************************************************************************
-* Data atual: 26/06/2024                                                          *
+* Data: 26/06/2024                                                                *
 * Exercício: 005 - Exercícios de Algoritmos (em C)                                *                                                       *
 * Instituição de Ensino: Estudonauta                                              *
 * Disciplina: Linguagem C                                                         *
@@ -37,8 +37,7 @@ int main(){
 
     media = (nota1 + nota2) / 2;
 
-    printf("\n");
-    printf("\nAnálise do desempenho estudantil do aluno %s", nome);
+    printf("\n\nAnálise do desempenho estudantil do aluno %s", nome);
     printf("\n---------------------------------------------------------------------\n");
     printf("O aluno tirou nota %.2f na 1ª Avaliação e nota %.2f na 2ª Avaliação.", nota1, nota2);
     printf("\nPortanto, a MÉDIA de %s é %.2f.\n\n",nome, media);

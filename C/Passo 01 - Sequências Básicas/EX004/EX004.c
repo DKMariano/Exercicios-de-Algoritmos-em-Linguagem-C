@@ -1,13 +1,13 @@
-/***********************************************************************************
-* Data atual: 26/06/2024                                                           *
-* Exercício: 004 - Exercícios de Algoritmos (em C)                                 *                                                       *
-* Instituição de Ensino: Estudonauta                                               *
-* Disciplina: Linguagem C                                                          *
-* Professor: Gustavo Guanabara                                                     *
-* Aluno: D. K. Mariano                                                             *
-* Descrição: Faça um programa que leia um número inteiro e mostre o seu antecessor *
-*            e seu sucessor.                                                       *                                                       *                                                                                          *
-***********************************************************************************/
+/************************************************************************************
+* Data: 26/06/2024                                                                  *
+* Exercício: 004 - Exercícios de Algoritmos (em C)                                  *                                                       *
+* Instituição de Ensino: Estudonauta                                                *
+* Disciplina: Linguagem C                                                           *
+* Professor: Gustavo Guanabara                                                      *
+* Aluno: D. K. Mariano                                                              *
+* Descrição: Desenvolva um algoritmo que leia dois números inteiros e mostre a soma *
+*            entre eles.                                                            *                                                       *                                                                                          *
+*************************************************************************************/
 
 #include <stdio.h>
 #include <locale.h>  // Biblioteca para configuração de localização, usada para suportar caracteres especiais

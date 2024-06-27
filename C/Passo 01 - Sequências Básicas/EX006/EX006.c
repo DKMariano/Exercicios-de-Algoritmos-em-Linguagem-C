@@ -1,5 +1,5 @@
 /***********************************************************************************
-* Data atual: 26/06/2024                                                           *
+* Data: 26/06/2024                                                                 *
 * Exercício: 006 - Exercícios de Algoritmos (em C)                                 *                                                       *
 * Instituição de Ensino: Estudonauta                                               *
 * Disciplina: Linguagem C                                                          *
