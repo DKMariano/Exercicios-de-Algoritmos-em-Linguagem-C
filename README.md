@@ -10,26 +10,26 @@ Os exercícios de algoritmos foram originalmente elaborados para serem respondid
 
 ### Conteúdo
 
-Até a presente data (25/06/2024), o repositório contém as seguintes pastas:
+Até a presente data (04/07/2024), o repositório contém as seguintes pastas:
 
 - **C:** Esta pasta contém oito subpastas com os 100 exercícios da lista de algoritmos resolvidos em Linguagem C.
   - **Passo 01 - Sequências Básicas:** Contém 16 subpastas com os exercícios 1 a 16.
     - **Exe001:** Contém a questão nº 1 resolvida.
     - **Exe002:** Contém a questão nº 2 resolvida.
     - **Exe003:** Contém a questão nº 3 resolvida.
-    - **Exe004:** Conterá a questão nº 4 resolvida.
-    - **Exe005:** Conterá a questão nº 5 resolvida.
-    - **Exe006:** Conterá a questão nº 6 resolvida.
-    - **Exe007:** Conterá a questão nº 7 resolvida.
-    - **Exe008:** Conterá a questão nº 8 resolvida.
-    - **Exe009:** Conterá a questão nº 9 resolvida.
-    - **Exe010:** Conterá a questão nº 10 resolvida.
-    - **Exe011:** Conterá a questão nº 11 resolvida.
-    - **Exe012:** Conterá a questão nº 12 resolvida.
-    - **Exe013:** Conterá a questão nº 13 resolvida.
-    - **Exe014:** Conterá a questão nº 14 resolvida.
-    - **Exe015:** Conterá a questão nº 15 resolvida.
-    - **Exe016:** Conterá a questão nº 16 resolvida.
+    - **Exe004:** Contém a questão nº 4 resolvida.
+    - **Exe005:** Contém a questão nº 5 resolvida.
+    - **Exe006:** Contém a questão nº 6 resolvida.
+    - **Exe007:** Contém a questão nº 7 resolvida.
+    - **Exe008:** Contém a questão nº 8 resolvida.
+    - **Exe009:** Contém a questão nº 9 resolvida.
+    - **Exe010:** Contém a questão nº 10 resolvida.
+    - **Exe011:** Contém a questão nº 11 resolvida.
+    - **Exe012:** Contém a questão nº 12 resolvida.
+    - **Exe013:** Contém a questão nº 13 resolvida.
+    - **Exe014:** Contém a questão nº 14 resolvida.
+    - **Exe015:** Contém a questão nº 15 resolvida.
+    - **Exe016:** Contém a questão nº 16 resolvida.
   - **Passo 02 - Condições Básicas:** Conterá 8 subpastas com os exercícios 17 a 25.
   - **Passo 03 - Condições Compostas:** Conterá 11 subpastas com os exercícios 26 a 37.
   - **Passo 04 – Repetições Enquanto:** Conterá 17 subpastas com os exercícios 38 a 55.
