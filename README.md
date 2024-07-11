@@ -10,7 +10,7 @@ Os exercícios de algoritmos foram originalmente elaborados para serem respondid
 
 ### Conteúdo
 
-Até a presente data (04/07/2024), o repositório contém as seguintes pastas:
+Até a presente data (11/07/2024), o repositório contém as seguintes pastas:
 
 - **C:** Esta pasta contém oito subpastas com os 100 exercícios da lista de algoritmos resolvidos em Linguagem C.
   - **Passo 01 - Sequências Básicas:** Contém 16 subpastas com os exercícios 1 a 16.
@@ -30,8 +30,23 @@ Até a presente data (04/07/2024), o repositório contém as seguintes pastas:
     - **Exe014:** Contém a questão nº 14 resolvida.
     - **Exe015:** Contém a questão nº 15 resolvida.
     - **Exe016:** Contém a questão nº 16 resolvida.
-  - **Passo 02 - Condições Básicas:** Conterá 8 subpastas com os exercícios 17 a 25.
+  - **Passo 02 - Condições Básicas:** Contém 8 subpastas com os exercícios 17 a 25.
+    - **Exe017:** Contém a questão nº 17 resolvida.
+    - **Exe018:** Contém a questão nº 18 resolvida.
+    - **Exe019:** Contém a questão nº 19 resolvida.
+    - **Exe020:** Contém a questão nº 20 resolvida.
+    - **Exe021:** Contém a questão nº 21 resolvida.
+    - **Exe022:** Contém a questão nº 22 resolvida.
+    - **Exe023:** Contém a questão nº 23 resolvida.
+    - **Exe024:** Contém a questão nº 24 resolvida.
+    - **Exe025:** Contém a questão nº 25 resolvida.
   - **Passo 03 - Condições Compostas:** Conterá 11 subpastas com os exercícios 26 a 37.
+    - **Exe026:** Contém a questão nº 26 resolvida.
+    - **Exe027:** Conterá a questão nº 27 resolvida.
+    - **Exe028:** Conterá a questão nº 28 resolvida.
+    - **Exe029:** Conterá a questão nº 29 resolvida.
+    - **Exe030:** Conterá a questão nº 30 resolvida.
+    - **Exe031:** Conterá a questão nº 31 resolvida.
   - **Passo 04 – Repetições Enquanto:** Conterá 17 subpastas com os exercícios 38 a 55.
   - **Passo 05 – Enquanto Com Flag:** Conterá 5 subpastas com os exercícios 56 a 60.
   - **Passo 06 – Repetição Com Faça Enquanto (While):** Conterá 3 subpastas com os exercícios 61 a 63.
